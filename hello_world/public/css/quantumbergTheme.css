@@ -90,8 +90,8 @@ body, .page-container {
 
 .es-icon {
 	@extend .icon;
-	fill :  #943993 !important; 
-	stroke:  #943993 !important;
+	fill :  #525252 !important; 
+	stroke:  #525252 !important;
 }
 
 .page-content .layout-main-section{
